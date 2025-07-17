@@ -39,6 +39,7 @@ body{
     bottom: 15px;
     opacity: 0;
     font-size: 4vw;
+    left: 20px;
 }
 .active {
     flex: 5;
