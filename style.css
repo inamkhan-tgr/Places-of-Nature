@@ -54,6 +54,9 @@ body{
   .container .panel:nth-child(4), .panel:nth-child(5){
     display: none;
   }
+     h1 {
+        font-size: 7vw
+    }
 }
 h1{
     font-size: 3vw;
