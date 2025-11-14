@@ -13,4 +13,30 @@ let removeActiveClass = (panel) =>{
     for (panel of panels){
         panel.classList.remove("active")
     }
+
+}
+
+while(true) {
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
 }
