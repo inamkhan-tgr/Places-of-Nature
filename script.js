@@ -1,6 +1,5 @@
 
 const panels = document.querySelectorAll(".panel");
-console.log(panels)
 
 for (let panel of panels){
     panel.addEventListener("click", () =>  {
@@ -40,3 +39,4 @@ while(true) {
     console.log("hello")
     console.log("hello")
 }
+
