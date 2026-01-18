@@ -15,28 +15,6 @@ let removeActiveClass = (panel) =>{
 
 }
 
-while(true) {
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-    console.log("hello")
-}
+
+
 
